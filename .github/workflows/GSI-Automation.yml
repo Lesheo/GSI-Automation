@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.9.10/miui_TUCANA_20.9.10_f3fcc4e9d9_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: http://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.28_OTA_028_all_2007240037_b03998cd3afb4bb7.zip
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
